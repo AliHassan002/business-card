@@ -158,8 +158,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Developer**: Ali Hassan
-- **Location**: Lahore, Pakistan
-- **Role**: Full Stack Developer
+- **Email**: m.alihassan002@gmail.com
+- **Role**: Full Stack Laravel Developer 
+- **LinkedIn**: [Full Stack Laravel Developer ](https://www.linkedin.com/in/ali-hassan-9ba69220b/)
 
 ---
 
